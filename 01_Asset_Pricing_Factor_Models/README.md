@@ -58,8 +58,6 @@ The results reported in the notebook are **in-sample** results for the selected 
 - profitability and investment factors add information mainly for defensive and quality-oriented portfolios;
 - FF5 provides the best fit for the total portfolio in the reported analysis, with an $R^2$ of approximately 0.939.
 
-These findings are not evidence of future performance and should not be interpreted as investment advice.
-
 ## Installation
 
 Python 3.9 or later is recommended. Install the dependencies with:
@@ -97,7 +95,6 @@ The charts also depend on live data retrieval. Simply viewing the notebook on Gi
 - The portfolios are educational constructions and do not necessarily represent investable indices.
 - The analysis is mainly in-sample and does not provide out-of-sample validation.
 - The econometric diagnostics could be extended, especially for autocorrelation, heteroskedasticity, residual normality, and parameter stability.
-- Past returns do not guarantee future returns.
 
 ## References
 
@@ -105,7 +102,3 @@ The charts also depend on live data retrieval. Simply viewing the notebook on Gi
 - Fama, E. F. & French, K. R. (1993), *Common Risk Factors in the Returns on Stocks and Bonds*.
 - Carhart, M. M. (1997), *On Persistence in Mutual Fund Performance*.
 - Fama, E. F. & French, K. R. (2015), *A Five-Factor Asset Pricing Model*.
-
-## License and Intended Use
-
-This project is provided for educational and personal research purposes. Check the terms of use of the data providers before any commercial reuse.
