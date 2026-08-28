@@ -13,7 +13,7 @@ The main objective is to assess whether adding factors such as size, value, mome
 
 The main notebook is available here:
 
-[`01_Asset_Pricing_Factor_Models_Comparison.ipynb`](01_Asset_Pricing_Factor_Models_Comparison.ipynb)
+[`Asset_Pricing_Factor_Models_Comparison.ipynb`](01_Asset_Pricing_Factor_Models_Comparison.ipynb)
 
 It includes:
 
